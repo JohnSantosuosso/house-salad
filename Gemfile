@@ -18,6 +18,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap'
 gem 'faraday'
 gem 'figaro'
+gem 'httparty'
 
 group :development, :test do
   gem 'pry'
